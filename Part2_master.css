@@ -1,0 +1,21 @@
+body{
+    background: url(https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: blue;
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted;
+}
+
+p{
+    color:aliceblue;
+
+}
+
+span{
+    background: red;
+    color: black;
+}

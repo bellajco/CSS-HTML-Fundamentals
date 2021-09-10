@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Allison', cursive;
+    text-align: center;
+}
+
+p{
+    font-family: 'Glory', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+body{
+    font-size: 20px;
+}
+
+#two{
+    font-size: 1.0em;
+}
